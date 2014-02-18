@@ -1,2 +1,2 @@
 all:
-	cc -lobjc -Wall *.m -o hello
+	cc -lobjc -framework Foundation -Wall *.m -o hello
