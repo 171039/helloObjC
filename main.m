@@ -2,5 +2,5 @@
 
 int main()
 {
-	NSLog(@"Hello, world!");
+	NSLog(@"171039");
 }
